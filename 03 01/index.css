@@ -1,0 +1,42 @@
+#szurke {
+    background-color: rgb(168, 231, 173);
+    height: 93px;
+    
+}
+.kep{
+    height: 500px;
+    position: absolute;
+}
+#roka{
+    margin-left:137px;
+    margin-top: 77px;
+}
+#panda{
+    margin-left:549px;
+    margin-top: 77px;
+}
+#tigris{
+    margin-left: 961px;
+    margin-top: 77px;
+}
+#mokus{
+    margin-left:137px;
+    margin-top: 404px;
+}
+#kutya{
+    margin-left:549px;
+    margin-top: 404px;
+}
+#lo{
+    margin-left: 961px;
+    margin-top: 404px;
+}
+#oldal{
+    height: 1024px;
+    width: 1440px;
+    
+}
+body{
+    
+    background-image: url("erdő2.jpg");
+}
